@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Babies"
+	backgroundColor="000000"
+	galleryStyle="CLASSIC"
+	frameWidth="10"
+
+>
+  <image imageURL="images/20101028 1344 IMG_7450R.jpg"
+	thumbURL="thumbs/20101028 1344 IMG_7450R.jpg"
+	linkURL="images/20101028 1344 IMG_7450R.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20100810 1245 IMG_6145.JPG"
+	thumbURL="thumbs/20100810 1245 IMG_6145.JPG"
+	linkURL="images/20100810 1245 IMG_6145.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20100825 1233 IMG_6465.JPG"
+	thumbURL="thumbs/20100825 1233 IMG_6465.JPG"
+	linkURL="images/20100825 1233 IMG_6465.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20101112 1520 IMG_7864v.jpg"
+	thumbURL="thumbs/20101112 1520 IMG_7864v.jpg"
+	linkURL="images/20101112 1520 IMG_7864v.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20101112 1547 IMG_7949v.jpg"
+	thumbURL="thumbs/20101112 1547 IMG_7949v.jpg"
+	linkURL="images/20101112 1547 IMG_7949v.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20101109 1633 IMG_7620R.jpg"
+	thumbURL="thumbs/20101109 1633 IMG_7620R.jpg"
+	linkURL="images/20101109 1633 IMG_7620R.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20101028 1322 IMG_7436v.jpg"
+	thumbURL="thumbs/20101028 1322 IMG_7436v.jpg"
+	linkURL="images/20101028 1322 IMG_7436v.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20100928 1325 IMG_7151R.jpg"
+	thumbURL="thumbs/20100928 1325 IMG_7151R.jpg"
+	linkURL="images/20100928 1325 IMG_7151R.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20100825 1318 IMG_6596.JPG"
+	thumbURL="thumbs/20100825 1318 IMG_6596.JPG"
+	linkURL="images/20100825 1318 IMG_6596.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20100719 1539 IMG_5428R.JPG"
+	thumbURL="thumbs/20100719 1539 IMG_5428R.JPG"
+	linkURL="images/20100719 1539 IMG_5428R.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
